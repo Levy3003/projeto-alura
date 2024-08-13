@@ -5,6 +5,7 @@ background: black;
 }
 
 header {
-border: solid 2px purple;
-
+    border-bottom: solid 2px rgb(rgb(62, 50, 230), green, rgb(150, 138, 105));
+padding:  20px;
+font-size: 32px;
 }
