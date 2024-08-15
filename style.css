@@ -6,12 +6,13 @@ background: rgb(10, 10, 10);
 
 header {
 border-bottom: solid 2px rgb(62, 50, 230);
-padding:  20px;
+padding:  25px;
 font-size: 32px;
 color: rgb(0, 0, 0);
 }
 
 section{
-
-
+    background: rgb(97 95 21 0.51);
+padding-bottom: 88px;
+padding-top: 80px;
 }
