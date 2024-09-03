@@ -32,5 +32,14 @@ P{
     font-size: 20px;
 }
 img{
-    height: 300px;
+    height: 200px;
+}
+.categotia {
+    padding-left: 20px;
+    padding-right:  20px;
+}
+.categoria-video{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
 }
